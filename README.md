@@ -4,8 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
     </head>
-    <body>      
-        <img src="https://github.com/Hubgopal/Hubgopal/raw/main/bg.jpeg">
+    <body>             
         <table width="80%" border="0" cellspacing="0" cellpadding="15" align="center">
             <tr>
                 <td align="center" colspan="2">
@@ -37,13 +36,9 @@
             <tr>
                 <td align="center" colspan="2">
                     <h3>📊 GitHub Stats</h3>
-                    <div align="left">
-                        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hubgopal&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-                    </div>
-                    <div align="center">
-                        <img src="https://github-readme-stats.vercel.app/api?username=hubgopal&show_icons=true&locale=en" alt="GitHub Stats">
-                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubgopal&" alt="GitHub Streak">
-                    </div>
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hubgopal&show_icons=true&locale=en&layout=compact" alt="Top Languages"><br>
+                    <img src="https://github-readme-stats.vercel.app/api?username=hubgopal&show_icons=true&locale=en" alt="GitHub Stats">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubgopal&" alt="GitHub Streak">
                 </td>
             </tr>
         </table>
