@@ -34,11 +34,11 @@
                 </td>
             </tr>
             <tr>
-                <td align="center" colspan="2">
+                <td align="left" colspan="2">
                     <h3>📊 GitHub Stats</h3>
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubgopal&" alt="GitHub Streak"><br>
+                    <img src="https://github-readme-stats.vercel.app/api?username=hubgopal&show_icons=true&locale=en" alt="GitHub Stats"><br>
                     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hubgopal&show_icons=true&locale=en&layout=compact" alt="Top Languages"><br>
-                    <img src="https://github-readme-stats.vercel.app/api?username=hubgopal&show_icons=true&locale=en" alt="GitHub Stats">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hubgopal&" alt="GitHub Streak">
                 </td>
             </tr>
         </table>
